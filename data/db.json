@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "id":101,
+            "title":"My First post",
+            "content":"Hello, this is my first post",
+            "created at":"2024-01-01"
+        },
+        {
+            "id":102,
+            "title":"A day in the Life",
+            "content":"Today was greate day",
+            "created at":"2024-01-05"
+        },
+        {
+             "id":103,
+            "title":"Tech Trends 2024",
+            "content":"AI&block chain are shapping the future of tech",
+            "created at":"2024-01-10"
+        },
+        {
+            "id":104,
+            "title":"Week end happy Sunday",
+            "content":"every week end saturday and Sunday",
+            "created at":"2024-01-01"
+        }
+    ]
+}
